@@ -1,0 +1,63 @@
+C:\ITLA\2025 C1\P1SC09\PSC09\PSC09\bin\Debug\PSC09.exe.config
+C:\ITLA\2025 C1\P1SC09\PSC09\PSC09\bin\Debug\PSC09.exe
+C:\ITLA\2025 C1\P1SC09\PSC09\PSC09\bin\Debug\PSC09.pdb
+C:\ITLA\2025 C1\P1SC09\PSC09\PSC09\obj\Debug\PSC09.csproj.AssemblyReference.cache
+C:\ITLA\2025 C1\P1SC09\PSC09\PSC09\obj\Debug\PSC09.frmLogin.resources
+C:\ITLA\2025 C1\P1SC09\PSC09\PSC09\obj\Debug\PSC09.Properties.Resources.resources
+C:\ITLA\2025 C1\P1SC09\PSC09\PSC09\obj\Debug\PSC09.csproj.GenerateResource.cache
+C:\ITLA\2025 C1\P1SC09\PSC09\PSC09\obj\Debug\PSC09.csproj.CoreCompileInputs.cache
+C:\ITLA\2025 C1\P1SC09\PSC09\PSC09\obj\Debug\PSC09.exe
+C:\ITLA\2025 C1\P1SC09\PSC09\PSC09\obj\Debug\PSC09.pdb
+C:\Users\Romaldi Mosquea\Desktop\ITLA\Programacion I\PSC09\PSC09\PSC09\bin\Debug\PSC09.exe.config
+C:\Users\Romaldi Mosquea\Desktop\ITLA\Programacion I\PSC09\PSC09\PSC09\bin\Debug\PSC09.exe
+C:\Users\Romaldi Mosquea\Desktop\ITLA\Programacion I\PSC09\PSC09\PSC09\bin\Debug\PSC09.pdb
+C:\Users\Romaldi Mosquea\Desktop\ITLA\Programacion I\PSC09\PSC09\PSC09\obj\Debug\PSC09.csproj.AssemblyReference.cache
+C:\Users\Romaldi Mosquea\Desktop\ITLA\Programacion I\PSC09\PSC09\PSC09\obj\Debug\PSC09.frmLogin.resources
+C:\Users\Romaldi Mosquea\Desktop\ITLA\Programacion I\PSC09\PSC09\PSC09\obj\Debug\PSC09.frmMenu.resources
+C:\Users\Romaldi Mosquea\Desktop\ITLA\Programacion I\PSC09\PSC09\PSC09\obj\Debug\PSC09.Properties.Resources.resources
+C:\Users\Romaldi Mosquea\Desktop\ITLA\Programacion I\PSC09\PSC09\PSC09\obj\Debug\PSC09.csproj.GenerateResource.cache
+C:\Users\Romaldi Mosquea\Desktop\ITLA\Programacion I\PSC09\PSC09\PSC09\obj\Debug\PSC09.csproj.CoreCompileInputs.cache
+C:\Users\Romaldi Mosquea\Desktop\ITLA\Programacion I\PSC09\PSC09\PSC09\obj\Debug\PSC09.exe
+C:\Users\Romaldi Mosquea\Desktop\ITLA\Programacion I\PSC09\PSC09\PSC09\obj\Debug\PSC09.pdb
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09\PSC09\PSC09\obj\Debug\PSC09.csproj.AssemblyReference.cache
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09\PSC09\PSC09\obj\Debug\PSC09.frmMenu.resources
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09\PSC09\PSC09\obj\Debug\PSC09.Properties.Resources.resources
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09\PSC09\PSC09\obj\Debug\PSC09.csproj.GenerateResource.cache
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09\PSC09\PSC09\obj\Debug\PSC09.csproj.CoreCompileInputs.cache
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09\PSC09\PSC09\obj\Debug\PSC09.exe
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09\PSC09\PSC09\obj\Debug\PSC09.pdb
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09\PSC09\PSC09\obj\Debug\PSC09.Formularios.frmUsuario.resources
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09\PSC09\PSC09\bin\Debug\PSC09.exe.config
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09\PSC09\PSC09\bin\Debug\PSC09.exe
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09\PSC09\PSC09\bin\Debug\PSC09.pdb
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09\PSC09\PSC09\bin\Debug\itextsharp.dll
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09\PSC09\PSC09\obj\Debug\PSC09.frmCliente.resources
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09\PSC09\PSC09\obj\Debug\PSC09.frmProducto.resources
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09\PSC09\PSC09\obj\Debug\PSC09.csproj.Up2Date
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09\PSC09\PSC09\obj\Debug\PSC08.frmRecibo.resources
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09\PSC09\PSC09\obj\Debug\PSC09.frmVENCTE.resources
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09\PSC09\PSC09\obj\Debug\PSC09.frmVENALM.resources
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09\PSC09\PSC09\obj\Debug\PSC09.frmFactura.resources
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09\PSC09\PSC09\obj\Debug\PSC09.frmVENFAT.resources
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09\PSC09\PSC09\obj\Debug\PSC09.frmLogin.resources
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09 - Presentacion\PSC09\PSC09\bin\Debug\PSC09.exe.config
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09 - Presentacion\PSC09\PSC09\bin\Debug\PSC09.exe
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09 - Presentacion\PSC09\PSC09\bin\Debug\PSC09.pdb
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09 - Presentacion\PSC09\PSC09\bin\Debug\itextsharp.dll
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09 - Presentacion\PSC09\PSC09\obj\Debug\PSC09.csproj.AssemblyReference.cache
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09 - Presentacion\PSC09\PSC09\obj\Debug\PSC08.frmRecibo.resources
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09 - Presentacion\PSC09\PSC09\obj\Debug\PSC09.frmVENCTE.resources
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09 - Presentacion\PSC09\PSC09\obj\Debug\PSC09.frmVENALM.resources
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09 - Presentacion\PSC09\PSC09\obj\Debug\PSC09.frmCliente.resources
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09 - Presentacion\PSC09\PSC09\obj\Debug\PSC09.frmFactura.resources
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09 - Presentacion\PSC09\PSC09\obj\Debug\PSC09.frmMenu.resources
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09 - Presentacion\PSC09\PSC09\obj\Debug\PSC09.frmProducto.resources
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09 - Presentacion\PSC09\PSC09\obj\Debug\PSC09.Formularios.frmUsuario.resources
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09 - Presentacion\PSC09\PSC09\obj\Debug\PSC09.frmVENFAT.resources
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09 - Presentacion\PSC09\PSC09\obj\Debug\PSC09.frmLogin.resources
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09 - Presentacion\PSC09\PSC09\obj\Debug\PSC09.Properties.Resources.resources
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09 - Presentacion\PSC09\PSC09\obj\Debug\PSC09.csproj.GenerateResource.cache
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09 - Presentacion\PSC09\PSC09\obj\Debug\PSC09.csproj.CoreCompileInputs.cache
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09 - Presentacion\PSC09\PSC09\obj\Debug\PSC09.csproj.Up2Date
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09 - Presentacion\PSC09\PSC09\obj\Debug\PSC09.exe
+C:\Users\insan\OneDrive\Desktop\ESTE SI\PSC09 - Presentacion\PSC09\PSC09\obj\Debug\PSC09.pdb
